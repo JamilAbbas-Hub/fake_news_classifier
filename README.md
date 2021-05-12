@@ -7,7 +7,7 @@
 
 ## Files
 ### Notebook
-- [Fake_News_Classifier.ipynb](https://github.com/JamilAbbas-Hub/JamilAbbas/blob/master/Fake%20News%20Classifier/Fake%20News%20Classifier.ipynb)
+- [Fake_News_Classifier.ipynb](https://github.com/JamilAbbas-Hub/fake_news_classifier/blob/master/Fake%20News%20Classifier.ipynb)
 
 ### Packages Needed
 - [numpy](https://numpy.org/)
